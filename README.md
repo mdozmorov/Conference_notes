@@ -10,3 +10,5 @@
 - Keystone symposia, http://www.keystonesymposia.org/
 
 - Gordon Research Conferences, https://www.grc.org/
+
+- Genomics Conferences & Schools – 2019, https://generegulation.org/conferences-2019/
