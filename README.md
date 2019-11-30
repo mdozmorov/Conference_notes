@@ -21,6 +21,8 @@
 
 ## Misc
 
+- List of Machine Learning and Deep Learning conferences in 2019 / 2020, https://tryolabs.com/blog/machine-learning-deep-learning-conferences/
+
 - Cold Spring Harbor Laboratory meetings and courses program, https://meetings.cshl.edu/meetingshome.aspx
 
 - Keystone symposia, http://www.keystonesymposia.org/
