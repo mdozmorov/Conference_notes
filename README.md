@@ -31,3 +31,4 @@
 
 - Genomics Conferences & Schools – 2019, https://generegulation.org/conferences-2019/
 
+- Diversity and inclusion in scientific conferences, "DEI resources" at https://immunox.ucsf.edu/future-immunology. [Inclusive Scientific Meetings guidelines](https://static1.squarespace.com/static/582cce42bebafbfc47a82b04/t/5ca0fe7d9b747a3d7dc7a71f/1554054781756/Formatted+Inclusive+Meeting+Guide-v5.pdf), [Diversity & Inclusion Tool Kit](https://www.sidnet.org/page/DIToolKit), [Nature's Achieving diversity in science](https://www.nature.com/collections/qsgnpdtgbr), [Advancing women in science](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(15)00068-5)
