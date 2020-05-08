@@ -21,6 +21,8 @@
 
 ## Misc
 
+- [virtual-conferences-workshops](https://github.com/riyuebao/virtual-conferences-workshops) - the list of conferences/meetings/workshops that have gone virtual in 2020 in the era of pandemic COVID19
+
 - List of Machine Learning and Deep Learning conferences in 2019 / 2020, https://tryolabs.com/blog/machine-learning-deep-learning-conferences/
 
 - Cold Spring Harbor Laboratory meetings and courses program, https://meetings.cshl.edu/meetingshome.aspx
