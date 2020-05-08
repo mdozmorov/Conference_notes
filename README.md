@@ -23,14 +23,14 @@
 
 - [virtual-conferences-workshops](https://github.com/riyuebao/virtual-conferences-workshops) - the list of conferences/meetings/workshops that have gone virtual in 2020 in the era of pandemic COVID19
 
-- List of Machine Learning and Deep Learning conferences in 2019 / 2020, https://tryolabs.com/blog/machine-learning-deep-learning-conferences/
+- [List of Machine Learning and Deep Learning conferences in 2019 / 2020](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
 
-- Cold Spring Harbor Laboratory meetings and courses program, https://meetings.cshl.edu/meetingshome.aspx
+- [Cold Spring Harbor Laboratory meetings and courses program](https://meetings.cshl.edu/meetingshome.aspx)
 
-- Keystone symposia, http://www.keystonesymposia.org/
+- [Keystone symposia](http://www.keystonesymposia.org/)
 
-- Gordon Research Conferences, https://www.grc.org/
+- [Gordon Research Conferences](https://www.grc.org/)
 
-- Genomics Conferences & Schools – 2019, https://generegulation.org/conferences-2019/
+- [Genomics Conferences & Schools – 2019](https://generegulation.org/conferences-2019/)
 
-- Diversity and inclusion in scientific conferences, "DEI resources" at https://immunox.ucsf.edu/future-immunology. [Inclusive Scientific Meetings guidelines](https://static1.squarespace.com/static/582cce42bebafbfc47a82b04/t/5ca0fe7d9b747a3d7dc7a71f/1554054781756/Formatted+Inclusive+Meeting+Guide-v5.pdf), [Diversity & Inclusion Tool Kit](https://www.sidnet.org/page/DIToolKit), [Nature's Achieving diversity in science](https://www.nature.com/collections/qsgnpdtgbr), [Advancing women in science](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(15)00068-5)
+- [Diversity and inclusion in scientific conferences, "DEI resources"](https://immunox.ucsf.edu/future-immunology). [Inclusive Scientific Meetings guidelines](https://static1.squarespace.com/static/582cce42bebafbfc47a82b04/t/5ca0fe7d9b747a3d7dc7a71f/1554054781756/Formatted+Inclusive+Meeting+Guide-v5.pdf), [Diversity & Inclusion Tool Kit](https://www.sidnet.org/page/DIToolKit), [Nature's Achieving diversity in science](https://www.nature.com/collections/qsgnpdtgbr), [Advancing women in science](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(15)00068-5)
