@@ -1,10 +1,11 @@
 ﻿Name,Year,Date,Place,Abstract Deadline,Registration Deadline,Fee (faculty),URL
-JSM,2020,August 1-6,"Philadelphia, PA",February 4,,,https://ww2.amstat.org/meetings/jsm/2020/
-Bioconductor,2020,July 29-31,"Boston, MA",March 3,July 10,,https://bioc2020.bioconductor.org/
-Bioinformatics Community Conference,2020,July 18-21,,March 31,June 2,,https://bcc2020.github.io/
+Genome Informatics,2020,September 14-14,Virtual,July 21,September 2020,,https://coursesandconferences.wellcomegenomecampus.org/our-events/genome-informatics-2020/
+JSM,2020,August 1-6,Virtual,February 4,,,https://ww2.amstat.org/meetings/jsm/2020/
+Bioconductor,2020,July 29-31,Virtual,March 3,July 10,$50 ,https://bioc2020.bioconductor.org/
+Bioinformatics Community Conference,2020,July 18-21,Virtual,March 31,July 10,$9 ,https://bcc2020.github.io/
 "SDSS, Symposium on Data Science & Statistics",2020,June 3-6,"Pittsburgh, PA",January 30,,,https://ww2.amstat.org/meetings/sdss/2020/onlineprogram/Program.cfm
 3DGenomics2020,2020,March 29 - April 3,"Aussois, France",February 3,,,https://3dgenomics2020.sciencesconf.org
-Higher-Order Chromatin Architecture in Time and Space (X3),2020,March 15-19,"Whistler, British Columbia, Canada",November 12,January 15,$945,http://keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1685
+Higher-Order Chromatin Architecture in Time and Space (X3),2020,March 15-19,"Whistler, British Columbia, Canada",November 12,January 15,$945 ,http://keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1685
 rstudio::conf,2020,January 29-30,"San Francisco, CA",,,$495 ,https://web.cvent.com/event/36ebe042-0113-44f1-8e36-b9bc5d0733bf/summary
 4DN-ASCB Satellite Meeting,2019,December 5-6,Washington D.C.,,October 15,,https://www.4dnucleome.org/4dn-ascb-meeting-2019.html
 DC R Conference,2019,November 7-9,Washington D.C.,,,$250 ,https://dc.rstats.ai/
