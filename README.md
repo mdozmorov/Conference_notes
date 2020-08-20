@@ -1,7 +1,8 @@
 # Notes on potential conferences
 
+Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
 
-- [**Conferences.csv**](Conferences.csv) - The listing is intended primarily for bioinformatics, biostatistics, computational conferences. Closest and future on top.
+[**Conferences.csv**](Conferences.csv) - The listing is intended primarily for bioinformatics, biostatistics, computational conferences. Closest and future on top.
 
 ## How to Attend a Conference
 
