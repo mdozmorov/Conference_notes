@@ -1,8 +1,10 @@
 # Notes on potential conferences
 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+
 Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
 
-[**Conferences.csv**](Conferences.csv) - The listing is intended primarily for bioinformatics, biostatistics, computational conferences. Closest and future on top.
+[**Conferences.csv**](Conferences.csv) - The listing is intended primarily for bioinformatics, biostatistics, computational/machine learning conferences. Latest and future on top.
 
 ## How to Attend a Conference
 
