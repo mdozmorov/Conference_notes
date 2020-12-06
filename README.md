@@ -36,4 +36,6 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 - [Genomics Conferences & Schools – 2019](https://generegulation.org/conferences-2019/)
 
+- [Moscow Conference on Computational Molecular Biology (MCCMB)](http://mccmb.belozersky.msu.ru/) - every 2 years
+
 - [Diversity and inclusion in scientific conferences, "DEI resources"](https://immunox.ucsf.edu/future-immunology). [Inclusive Scientific Meetings guidelines](https://static1.squarespace.com/static/582cce42bebafbfc47a82b04/t/5ca0fe7d9b747a3d7dc7a71f/1554054781756/Formatted+Inclusive+Meeting+Guide-v5.pdf), [Diversity & Inclusion Tool Kit](https://www.sidnet.org/page/DIToolKit), [Nature's Achieving diversity in science](https://www.nature.com/collections/qsgnpdtgbr), [Advancing women in science](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(15)00068-5)
