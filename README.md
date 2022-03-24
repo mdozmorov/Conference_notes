@@ -24,6 +24,8 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 ## Misc
 
+- Puccinelli, Eleonora, Daniela Zeppilli, Paris Stefanoudis, Annaïg Wittische-Helou, Marjorie Kermorgant, Sandra Fuchs, Jozée Sarrazin, Erin E Easton, and Alexandra Anh-Thu. “Hybrid Conferences: Opportunities, Challenges and Ways Forward,” March 21, 2022, https://doi.org/10.1101/2022.03.18.484941
+
 - [virtual-conferences-workshops](https://github.com/riyuebao/virtual-conferences-workshops) - the list of conferences/meetings/workshops that have gone virtual in 2020 in the era of pandemic COVID19
 
 - [List of Machine Learning and Deep Learning conferences in 2019 / 2020](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
