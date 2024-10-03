@@ -1,6 +1,6 @@
 # Notes on potential conferences
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 
 Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
 
@@ -31,6 +31,7 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 - [List of Machine Learning and Deep Learning conferences in 2019 / 2020](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
 
 - [Cold Spring Harbor Laboratory meetings and courses program](https://meetings.cshl.edu/meetingshome.aspx)
+  - [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA)
 
 - [Keystone symposia](http://www.keystonesymposia.org/)
 
